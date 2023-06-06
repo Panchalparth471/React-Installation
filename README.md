@@ -1,5 +1,6 @@
 # React-Installation
-Steps to install React JS<br>
+Steps to install React JS
+<br>
 Step 1:- Install node js <br>
 Step 2:- Create a new folder => reactfolio<br>
 Step 3:- cd Reactfolio <br>
